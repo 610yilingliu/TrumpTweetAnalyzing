@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# nltk
+nltk_words
+
 # C extensions
 *.so
 
